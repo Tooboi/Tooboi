@@ -3,7 +3,7 @@
 
 
 
-### I'm a Web Developer, 3D Artist, Student for Life
+### I'm a Web Developer, 3D Artist, Student
 
 - 🎓 I’m currently working on compleating a web dev bootcamp
 - 🌱 I’m currently learning JavaScript
