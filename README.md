@@ -6,7 +6,7 @@
 ### I'm a Web Developer, 3D Artist, and Student
 
 - 🎓 I’m currently working on compleating a web dev bootcamp
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Node.js
 - 👯 I’m looking to collaborate on anything
 - 👨 Pronouns: He / Him
 
