@@ -6,7 +6,7 @@
 ### I'm a Web Developer, 3D Artist, and Student
 
 - 🎓 I’m currently working on compleating a web dev bootcamp
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🌱 I’m currently learning JavaScript, Node.js, and Express.js
 - 👯 I’m looking to collaborate on anything
 - 👨 Pronouns: He / Him
 
@@ -28,7 +28,7 @@
 <img align="left" alt="jquery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="nodejs" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="bulma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Blender" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;"/>
 <br>
           
