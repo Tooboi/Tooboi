@@ -1,12 +1,9 @@
 ## Hey I'm Josh 👨‍💻
 
-
-
-
-### I'm a Web Developer, 3D Artist, and Student
+### I'm a Full Stack Web Developer, 3D Artist, and Student
 
 - 🎓 I’m currently working on compleating a web dev bootcamp
-- 🌱 I’m currently learning JavaScript, Node.js, Express.js, and MySQL
+- 🌱 I’m currently learning JavaScript, Node.js, Express.js, MySQL, and Handlebars
 - 👯 I’m looking to collaborate on anything
 - 👨 Pronouns: He / Him
 
