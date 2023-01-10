@@ -3,7 +3,7 @@
 ### I'm a Full Stack Web Developer, 3D Artist, and Student
 
 - 🎓 I’m currently working on compleating a web dev bootcamp
-- 🌱 I’m currently learning JavaScript, Node.js, Express.js, MySQL, and Handlebars
+- 🌱 I’m currently learning JavaScript, Node.js, Express.js, MySQL, Handlebars, and MongoDB
 - 👯 I’m looking to collaborate on anything
 - 👨 Pronouns: He / Him
 
