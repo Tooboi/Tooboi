@@ -28,6 +28,7 @@
 <img align="left" alt="handlebars" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg"  style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Mongo" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="webpack" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;"/>
 <br>
 
