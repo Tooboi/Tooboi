@@ -1,9 +1,9 @@
 ## Hey I'm Josh 👨‍💻
 
-### I'm a Full Stack Web Developer, 3D Artist, and Student
+### I'm a Full Stack Web Developer and 3D Artist
 
-- 🎓 I’m currently working on compleating a web dev bootcamp
-- 🌱 I’m currently learning JavaScript, Node.js, Express.js, MySQL, Handlebars, and MongoDB
+- 💻 I’m currently looking to start my web dev career
+- 🌱 I’m currently learning React and MERN-G app development
 - 👯 I’m looking to collaborate on anything
 - 👨 Pronouns: He / Him
 
@@ -29,6 +29,8 @@
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Mongo" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="webpack" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="react" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="graphql" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;"/>
 <br>
 
