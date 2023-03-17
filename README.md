@@ -38,7 +38,7 @@
 
 <img align="left" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="bulma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" style="padding-right:10px;"/>
-
+<img align="left" alt="tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
 <!-- ### Stats -->
 
 
